@@ -7,7 +7,6 @@ Student Computer Engineering RMUTL CNX
 I am interested in working in this field Devops and Backend
 
 * 🌍  I'm based in Chiangmai,Thailand
-* 🚀  I'm currently working on [Part-time](http://wineconnection.co.th/)
 * 📖  life long learning
 
 <p align="left">
